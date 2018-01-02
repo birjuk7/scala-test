@@ -1,0 +1,5 @@
+
+
+trait tratee_scala {
+  
+}
